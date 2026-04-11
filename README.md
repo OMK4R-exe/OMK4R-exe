@@ -71,7 +71,10 @@ Smart resource allocation & auto-scaling
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OMK4R-exe/OMK4R-exe/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/OMK4R-exe/OMK4R-exe/output/github-contribution-grid-snake-dark.svg" 
+    width="100%" 
+  />
 </p>
 ---
 
