@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Omkar Gawas</h1>
+<h1> I'm Omkar Gawas</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Computer+Vision+Explorer;Java+%7C+Python+Developer;Cloud+Computing+Learner;Building+Real+World+Projects+🚀" />
 
@@ -9,22 +9,22 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aditya25-yadav/aditya25-yadav/main/assets/download%20(1).gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/OMK4R-exe/OMK4R-exe/main/assets/download%20(1).gif" width="700"/>
   <br/>
   <b>Engineering clarity out of complexity.</b>
 </div>
 
 ---
 
-### 👋 About Me  
+###  About Me  
 
-Hey there! I'm Omkar 👨‍💻  
+Hey there! I'm Omkar   
 
-I’m someone who enjoys turning ideas into real, working systems — usually powered by coffee ☕ and curiosity. I love exploring how things work under the hood, especially in Machine Learning and Computer Vision, and then building projects that actually solve problems instead of just sitting in a folder.  
+I’m someone who enjoys turning ideas into real, working systems — usually powered by coffee and curiosity. I love exploring how things work under the hood, especially in Machine Learning and Computer Vision, and then building projects that actually solve problems instead of just sitting in a folder.  
 
-Most of the time, you’ll find me experimenting with new tech, improving my skills, or debugging something that *definitely worked 5 minutes ago* 😅. I’m always learning, always building, and always looking for the next challenge to dive into.  
+Most of the time, you’ll find me experimenting with new tech, improving my skills, or debugging something that *definitely worked 5 minutes ago* . I’m always learning, always building, and always looking for the next challenge to dive into.  
 
-At the end of the day, I just enjoy creating things that are useful, smart, and a little bit cool 🚀  
+At the end of the day, I just enjoy creating things that are useful, smart, and a little bit cool  
 
 ---
 
