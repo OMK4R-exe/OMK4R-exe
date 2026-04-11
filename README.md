@@ -28,7 +28,7 @@ At the end of the day, I just enjoy creating things that are useful, smart, and 
 
 ---
 
-### 🕹️ Languages and Tools  
+### Languages and Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,sql" />
@@ -46,20 +46,20 @@ At the end of the day, I just enjoy creating things that are useful, smart, and 
 
 ---
 
-### 📂 Featured Projects  
+###  Featured Projects  
 
-🔍 **Blur Detection System**  
+ **Blur Detection System**  
 Dual-branch ML model using spatial + FFT features with XGBoost  
 
-📦 **Warehouse Automation System**  
+ **Warehouse Automation System**  
 Java (Swing) + MySQL with role-based system  
 
-☁️ **Cloud Cost Optimization**  
+ **Cloud Cost Optimization**  
 Smart resource allocation & auto-scaling  
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OMK4R-exe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -68,7 +68,7 @@ Smart resource allocation & auto-scaling
 
 ---
 
-### 🐍 Contribution Snake  
+###  Contribution Snake  
 
 <p align="center">
   <img 
@@ -78,7 +78,7 @@ Smart resource allocation & auto-scaling
 </p>
 ---
 
-### 🤝 Let's Connect  
+###  Let's Connect  
 
 <div align="center">
 
@@ -97,13 +97,3 @@ Smart resource allocation & auto-scaling
 </div>
 
 ---
-
-### ⚡ Fun Fact  
-
-💡 I enjoy converting **research ideas into real working systems**
-
----
-
-### ⭐ Quote  
-
-> “Code + Research = Innovation 🚀”
