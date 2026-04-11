@@ -73,7 +73,6 @@ Smart resource allocation & auto-scaling
 <p align="center">
   <img src="https://raw.githubusercontent.com/OMK4R-exe/OMK4R-exe/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ### 🤝 Let's Connect  
