@@ -18,7 +18,9 @@ jobs:
         with:
           github_user_name: OMK4R-exe
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFAA&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          grid_size: 20   # ✅ controls grid fit
+          snake_color: '#00FFAA'   # optional
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
