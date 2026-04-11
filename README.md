@@ -62,7 +62,6 @@ Smart resource allocation & auto-scaling
 ###  GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMK4R-exe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=OMK4R-exe&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
